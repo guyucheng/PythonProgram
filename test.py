@@ -13,4 +13,6 @@ def non_return(x):
     x = x*x
     return x
 
-print(non_return(15))
+
+x = float(input("->"))
+print(non_return(x))
