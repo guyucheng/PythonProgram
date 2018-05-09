@@ -14,5 +14,5 @@ def non_return(x):
     return x
 
 
-x = float(input("->"))
-print(non_return(x))
+# x = float(input("->"))
+# print(non_return(x))
