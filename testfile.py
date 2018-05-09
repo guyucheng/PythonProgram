@@ -1,5 +1,5 @@
-file = open("myFile.txt","w")
-count_write = content = file.write("hello word")
-
-print(content)
+file = open("myFile.txt")
+print(file.read())
+# content = file.write("hello word")
+# print(content)
 file.close()

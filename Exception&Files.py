@@ -13,10 +13,10 @@ except ZeroDivisionError:
 
 try:
     a=7
-    b=0
+    b=1
     print(a/b)
 except:
     print("a除b错误")
-    raise NameError("除数为零错误")
+    # raise NameError("除数为零错误")
 finally:
     print("不管怎样都会运行这里的代码")

@@ -1,1 +1,7 @@
-hello word
+q1use "with" open file
+q1use "with" open file
+qqquse "with" open file
+10use "with" open file
+10use "with" open file
+use "with" open file
+inuse "with" open file
