@@ -1,2 +1,2 @@
-# 我的python学习笔记
+# My python note
 <!-- vim-markdown-toc GFM -->
